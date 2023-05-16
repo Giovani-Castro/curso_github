@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
     card:{
         backgroundColor:'#FFF',
         margin:15,
-        elevation:2
+        elevation:2,
 
     },
     titulo:{
